@@ -1,0 +1,6 @@
+[submodule "CppND-Route-Planning-Project"]
+	path = CppND-Route-Planning-Project
+	url = https://github.com/roboav8r/CppND-Route-Planning-Project.git
+[submodule "CppND-System-Monitor-Project-Updated"]
+	path = CppND-System-Monitor-Project-Updated
+	url = https://github.com/roboav8r/CppND-System-Monitor-Project-Updated.git
