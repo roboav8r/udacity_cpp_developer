@@ -4,3 +4,6 @@
 [submodule "CppND-System-Monitor-Project-Updated"]
 	path = CppND-System-Monitor-Project-Updated
 	url = https://github.com/roboav8r/CppND-System-Monitor-Project-Updated.git
+[submodule "CppND-Program-a-Concurrent-Traffic-Simulation"]
+	path = CppND-Program-a-Concurrent-Traffic-Simulation
+	url = https://github.com/roboav8r/CppND-Program-a-Concurrent-Traffic-Simulation.git
